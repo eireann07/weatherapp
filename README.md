@@ -1,4 +1,4 @@
-#Basic Node/Express Weather App
+##Basic Node/Express Weather App
 
 *Basic Node/Express weather app using OpenWeather API to display weather in degrees Celcius, displays current skies description in images from OpenWeather as well.*
 
