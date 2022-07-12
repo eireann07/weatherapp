@@ -1,6 +1,6 @@
 #Basic Node/Express Weather App
 
-*Basic Node/Express weather app using OpenWeather API to display weather in degrees Celcius, displays current skies description in images from OpenWeather as well.
+*Basic Node/Express weather app using OpenWeather API to display weather in degrees Celcius, displays current skies description in images from OpenWeather as well.*
 
 **Things I enjoyed about building this app:** Building an Express server! It was really exciting, even though it was relatively easy to do. I felt like a "real" engineer when it got up and running on a local host. 
 
